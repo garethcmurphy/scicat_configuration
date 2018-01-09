@@ -1,2 +1,3 @@
 ESS/component-config.json
 ESS/config.local.js
+ESS/datasources.json
