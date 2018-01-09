@@ -1,1 +1,2 @@
 ESS/component-config.json
+ESS/config.local.js
