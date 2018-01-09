@@ -2,3 +2,4 @@ ESS/component-config.json
 ESS/config.local.js
 ESS/datasources.json
 ESS/middleware.json
+ESS/providers.json
